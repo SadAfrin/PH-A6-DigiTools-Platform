@@ -7,14 +7,14 @@ function App() {
     <>
       <div className="min-h-screen bg-white text-black">
         <Navbar />
+
+        <main>
+          <Banner />
+
+        </main>
       </div>
       
-      <main>
-        <div className="min-h-screen bg-white text-black">
-          <Banner />
-        </div>
-
-      </main>
+      
       
     </>
   )
