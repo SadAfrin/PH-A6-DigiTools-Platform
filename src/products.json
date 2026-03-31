@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content for blogs, ads, and social media in seconds.",
+    "price": 29,
+    "period": "Monthly",
+    "tag": "Best Seller",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://i.ibb.co/vxs497m/ai-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Template Pack",
+    "description": "Premium UI/UX kits and social media templates for modern designers.",
+    "price": 49,
+    "period": "One-time",
+    "tag": "Hot",
+    "tagType": "new",
+    "features": ["Vector assets", "Sketch/Figma files", "Commercial license"],
+    "icon": "https://i.ibb.co/L9Y0YyX/design-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "SEO Master Tool",
+    "description": "Analyze your website and rank higher on Google with our SEO suite.",
+    "price": 19,
+    "period": "Monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Keyword tracking", "Backlink audit", "Site health report"],
+    "icon": "https://i.ibb.co/M7yG1wN/seo-icon.png"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Streamline your repetitive tasks and sync data across 100+ apps easily.",
+    "price": 79,
+    "period": "One-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["10+ Integrations", "Custom workflows", "Cloud sync"],
+    "icon": "https://i.ibb.co/vxs497m/ai-icon.png"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create professional, ATS-friendly resumes in minutes with expert layouts.",
+    "price": 15,
+    "period": "One-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["ATS optimization", "15+ Templates", "Export to PDF"],
+    "icon": "https://i.ibb.co/L9Y0YyX/design-icon.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "A full month of ready-to-use posts and captions for your brand.",
+    "price": 39,
+    "period": "Monthly",
+    "tag": "Best Seller",
+    "tagType": "popular",
+    "features": ["Editable Canva files", "Caption templates", "Posting schedule"],
+    "icon": "https://i.ibb.co/M7yG1wN/seo-icon.png"
+  },
+  {
+    "id": 7,
+    "name": "Email Marketing Suite",
+    "description": "Send beautiful newsletters and track your campaign performance in real-time.",
+    "price": 25,
+    "period": "Monthly",
+    "tag": "Trending",
+    "tagType": "new",
+    "features": ["Drag-drop editor", "A/B testing", "Analytics dashboard"],
+    "icon": "https://i.ibb.co/vxs497m/ai-icon.png"
+  }
+]

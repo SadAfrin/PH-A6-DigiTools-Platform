@@ -1,10 +1,21 @@
-import { useState } from 'react'
+import Navbar from "./components/Navbar"
+import Banner from "./components/Banner"
 import './App.css'
 
 function App() {
   return (
     <>
-      <h2 className='text-red-500'>Welcome to Vite + React</h2>
+      <div className="min-h-screen bg-white text-black">
+        <Navbar />
+      </div>
+      
+      <main>
+        <div className="min-h-screen bg-white text-black">
+          <Banner />
+        </div>
+
+      </main>
+      
     </>
   )
 }
