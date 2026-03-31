@@ -8,7 +8,8 @@
     "tag": "Best Seller",
     "tagType": "popular",
     "features": ["100+ templates", "ATS optimization", "Export to PDF"],
-    "icon": "https://i.ibb.co/vxs497m/ai-icon.png"
+    "icon": "https://i.ibb.co/vxs497m/ai-icon.png",
+    "iconName": "PenTool"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "tag": "Hot",
     "tagType": "new",
     "features": ["Vector assets", "Sketch/Figma files", "Commercial license"],
-    "icon": "https://i.ibb.co/L9Y0YyX/design-icon.png"
+    "icon": "https://i.ibb.co/L9Y0YyX/design-icon.png",
+    "iconName": "Layout"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "tag": "New",
     "tagType": "new",
     "features": ["Keyword tracking", "Backlink audit", "Site health report"],
-    "icon": "https://i.ibb.co/M7yG1wN/seo-icon.png"
+    "icon": "https://i.ibb.co/M7yG1wN/seo-icon.png",
+    "iconName": "Search"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "tag": "Popular",
     "tagType": "popular",
     "features": ["10+ Integrations", "Custom workflows", "Cloud sync"],
-    "icon": "https://i.ibb.co/vxs497m/ai-icon.png"
+    "icon": "https://i.ibb.co/vxs497m/ai-icon.png",
+    "iconName": "Zap"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "tag": "New",
     "tagType": "new",
     "features": ["ATS optimization", "15+ Templates", "Export to PDF"],
-    "icon": "https://i.ibb.co/L9Y0YyX/design-icon.png"
+    "icon": "https://i.ibb.co/L9Y0YyX/design-icon.png",
+    "iconName": "FileUser"
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "tag": "Best Seller",
     "tagType": "popular",
     "features": ["Editable Canva files", "Caption templates", "Posting schedule"],
-    "icon": "https://i.ibb.co/M7yG1wN/seo-icon.png"
+    "icon": "https://i.ibb.co/M7yG1wN/seo-icon.png",
+    "iconName": "Share2"
   },
   {
     "id": 7,
@@ -74,6 +80,7 @@
     "tag": "Trending",
     "tagType": "new",
     "features": ["Drag-drop editor", "A/B testing", "Analytics dashboard"],
-    "icon": "https://i.ibb.co/vxs497m/ai-icon.png"
+    "icon": "https://i.ibb.co/vxs497m/ai-icon.png",
+    "iconName": "Mail"
   }
 ]

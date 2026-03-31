@@ -1,6 +1,8 @@
 import Navbar from "./components/Navbar"
 import Banner from "./components/Banner"
+import StatsSection from "./components/StatsSection";
 import './App.css'
+import ProductSection from "./components/ProductSection";
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
 
         <main>
           <Banner />
+          <StatsSection />
+          <ProductSection />
 
         </main>
       </div>
